@@ -34,6 +34,7 @@
   border: 1px solid #96a0a7;
   font-size: 1.5em;
   padding-left: 10px;
+  border-radius: 10px;
 }
 
 .btn-submit {
@@ -44,10 +45,13 @@
   border: none;
   line-height: 25px;
   font-size: 21px;
-  margin-top: 40px;
+  margin-top: 20px;
   letter-spacing: 0.0015em;
   color: #0e161a;
 }
 .btn-submit:hover {
   background: rgba(255, 153, 0, 0.6);
+}
+.text-error{
+  color: rgb(214, 57, 57);
 }
